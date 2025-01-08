@@ -1,2 +1,2 @@
 # stickers_sales_forecasting
-Forecasting of TS stickers sales
+Competition on Kaggle "Forecasting Stickers Sales" notebook
